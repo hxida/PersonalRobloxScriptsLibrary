@@ -20,7 +20,7 @@ local adminUserIds = { -- Change this to the actual UserIds of your admins!
 	[1518893691] = true, -- Owner - Doe_JohnRBLX
 	[1440984798] = true, -- Admin - K6SQ
 	[1372754255] = true, -- Admin - Wh1itleeYT
-	[1900080788] = true  -- Admin - Wolf4Champ
+	[1900080788] = true,  -- Admin - Wolf4Champ
 	[261] = true -- Admin (Special) - Shedletsky Telamon
 } -- I love tables
 
