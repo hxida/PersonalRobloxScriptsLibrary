@@ -18,7 +18,7 @@ local UnbanUserRequestEvent = ReplicatedStorage:WaitForChild("UnbanUserRequestEv
 local UpdateClientBanListEvent = ReplicatedStorage:WaitForChild("UpdateClientBanListEvent")
 local RequestFullBanListEvent = ReplicatedStorage:WaitForChild("RequestFullBanListEvent")
 
-local DISCORD_WEBHOOK_URL = "https://canary.discord.com/api/webhooks/1370695577129451590/mq9UfGvvdjdZTuaVtqSwKcMCZ71TvDCqlambNvGpdIpEf7oD_KJqKATpBNF177seXAq-" -- Insert your Webhook URL here!!
+local DISCORD_WEBHOOK_URL = "" -- Insert your Webhook URL here!!
 
 local bannedUsersCache = {} -- Example: { [userIdString] = {reason = "Exploiting", admin = "AdminPlayerName", timestamp = os.time()} }
 
