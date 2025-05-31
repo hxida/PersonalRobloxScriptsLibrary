@@ -1,2 +1,2 @@
-# rblx-scripts
-My personal roblox game development packages.
+# hxida's Personal Roblox Scripts Library
+stuff stuff stuff stuff
