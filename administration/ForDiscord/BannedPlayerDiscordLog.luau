@@ -173,4 +173,4 @@ end)
 
 BanUserRequestEvent.OnServerEvent:Connect(onBanUserRequest)
 
-print("BanSystemServer with Discord logging and client updates has been initialized.")
+-- SERVERSCRIPTSERVICE

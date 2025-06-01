@@ -34,3 +34,5 @@ LocalPlayer.CharacterAdded:Connect(function(Character)
         end
     end)
 end)
+
+-- STARTERPLAYERSCRIPTS

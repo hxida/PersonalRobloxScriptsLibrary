@@ -24,3 +24,5 @@ RunService:BindToRenderStep("CameraSway", Enum.RenderPriority.Camera.Value + 1, 
 
 	Camera.CFrame = Camera.CFrame * CFrame.Angles(0, 0, math.rad(Turn))
 end)
+
+-- STARTERCHARACTERSCRIPTS

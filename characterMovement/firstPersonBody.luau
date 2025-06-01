@@ -25,3 +25,5 @@ RunService.RenderStepped:Connect(function()
     
     humanoid.CameraOffset = Vector3.new(0, 0, -1) -- Sets the camera offset for first person view.
 end)
+
+-- STARTERPLAYERSCRIPTS

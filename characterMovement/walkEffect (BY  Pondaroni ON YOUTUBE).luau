@@ -66,3 +66,5 @@ bobbing = game:GetService("RunService").RenderStepped:Connect(function(deltaTime
 	Player.CameraMinZoomDistance = 0.5
 	vect3 = lerp(vect3, Camera.CFrame.LookVector, 0.125 * deltaTime)
 end)
+
+-- STARTERCHARACTERSCRIPTS
