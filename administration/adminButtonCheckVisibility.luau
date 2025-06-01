@@ -58,4 +58,3 @@ else
 	adminMenu.Visible = false
 	adminMenu.Position = closedPosition
 end
-
