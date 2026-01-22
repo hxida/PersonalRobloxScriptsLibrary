@@ -1,3 +1,10 @@
+--[=[
+                                            Head Following Mouse/Cursor Position
+                                         | - - - - - - - - - - - - - - - - - |
+    This script makes the player's head follow according to players mouse/cursor movement.
+]=]
+
+
 local Camera = game.Workspace.CurrentCamera
 local Player = game.Players.LocalPlayer
 local Mouse = Player:GetMouse()
@@ -72,3 +79,4 @@ Player.CharacterAdded:Connect(function(char)
 		end
 	end)
 end)
+
