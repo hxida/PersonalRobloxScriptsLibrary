@@ -1,5 +1,5 @@
 --[=[
-                                            Head Following Mouse/Cursor Position
+                                          Head Following Mouse/Cursor Position
                                          | - - - - - - - - - - - - - - - - - |
     This script makes the player's head follow according to players mouse/cursor movement.
 ]=]
@@ -79,4 +79,5 @@ Player.CharacterAdded:Connect(function(char)
 		end
 	end)
 end)
+
 
